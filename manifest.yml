@@ -1,0 +1,8 @@
+applications:
+- name: Secure-Search-Cloud
+path: target/Secure-Search-Cloud.jar
+domain: 
+memory: 768M
+instances: 1
+  
+  
